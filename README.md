@@ -1,8 +1,3 @@
-I'll help create a more comprehensive README.md that better reflects the paper's sparse convolutional autoencoder for subsurface reconstruction.
-
-
-
-```markdown
 #Sparse Convolutional Autoencoder for Subsurface Reconstruction
 
 A PyTorch implementation of a sparse convolutional autoencoder for geological subsurface reconstruction, integrating Vertical Electrical Sounding (VES) data with basement boundary modeling. This implementation is based on the methodology described in "AI-based geological subsurface reconstruction using sparse convolutional autoencoders" 
