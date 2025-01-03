@@ -1,4 +1,4 @@
-#Sparse Convolutional Autoencoder for Subsurface Reconstruction
+##Sparse Convolutional Autoencoder for Subsurface Reconstruction
 
 A PyTorch implementation of a sparse convolutional autoencoder for geological subsurface reconstruction, integrating Vertical Electrical Sounding (VES) data with basement boundary modeling. This implementation is based on the methodology described in "AI-based geological subsurface reconstruction using sparse convolutional autoencoders" 
 
