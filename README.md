@@ -139,11 +139,25 @@ Based on validation tests:
 
 ## Citation
 
-Paper Under Review
+If you use this code in your research, please cite:
 
-## License
+```bibtex
+@article{URIBEVENTURA2025105981,
+    title = {AI-based geological subsurface reconstruction using sparse convolutional autoencoders},
+    journal = {Computers & Geosciences},
+    volume = {204},
+    pages = {105981},
+    year = {2025},
+    issn = {0098-3004},
+    doi = {https://doi.org/10.1016/j.cageo.2025.105981},
+    url = {https://www.sciencedirect.com/science/article/pii/S0098300425001311},
+    author = {Rodrigo Uribe-Ventura and Yoan Barriga-Berrios and Jorge Barriga-Gamarra and Patrice Baby and Willem Viveen}
+}
+```
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+**Published Paper:**  
+Uribe-Ventura, R., Barriga-Berrios, Y., Barriga-Gamarra, J., Baby, P., & Viveen, W. (2025). AI-based geological subsurface reconstruction using sparse convolutional autoencoders. *Computers & Geosciences*, 204, 105981. https://doi.org/10.1016/j.cageo.2025.105981
+
 
 ## Contributing
 
